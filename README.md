@@ -1,5 +1,5 @@
 # Bài 8
-## Bài 1: Đọc và chuyển đổi tín hiệu analog sang dạng số
+## Đọc và chuyển đổi tín hiệu analog sang dạng số
 - **Mục tiêu:**
   - Hiểu cách cấu hình ADC trên STM32 để đọc tín hiệu analog.
   - Chuyển đổi giá trị điện áp từ biến trở hoặc cảm biến nhiệt độ sang dạng số.
